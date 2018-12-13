@@ -30,4 +30,4 @@ PARA TER ACESSO AOS ENDPOINTS:
 Precisa realizar o /register
 com email e username únicos.
 
-Após, sucesso, pode fazer o login com username e password.
+Após, sucesso, pode fazer o login com username e password no /login.
